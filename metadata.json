@@ -1,0 +1,6 @@
+{
+  "name": "Color Kingdom Guardian",
+  "description": "An interactive educational color matching game for children aged 4 to 8 to improve focus and visual attention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
